@@ -1,1 +1,5 @@
-
+{
+  "base_url": "http://192.168.37.229:3000",
+  "model": "koboldcpp/DOLPHIN-MISTRAL-24B-VENICE-EDITION-Q5_K_M",
+  "timeout": 30
+}
